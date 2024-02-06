@@ -124,3 +124,11 @@ button {
     background-color: #f08804;
 }
 ```
+
+# Label 3
+
+She used a "Position playground" for explanation purposes. I liked it.
+
+Recreate this:
+
+![](./markdown-linked-images/position-playground.png)
